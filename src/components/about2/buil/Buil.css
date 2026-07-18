@@ -1,0 +1,23 @@
+.buil-about2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.buil-left-about2{
+    background-color: #F9F9F9;
+    padding: 100px;
+    height: 603px;
+    
+}
+.buil-left-text-main{
+    font-size: 32px;
+    color: #2A254B;
+    font-weight: 400px;
+    margin-bottom: 40px;
+}
+.buil-left-text-second , .buil-left-text-third{
+    font-size: 18px;
+    color: #505977;
+    margin-bottom: 40px;
+}
