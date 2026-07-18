@@ -1,5 +1,5 @@
-import sofa from "../../assets/sofa.jpg";
-import "./Global.css";
+import sofa from "../../../../public/sofa.jpg";
+import "./London.css";
 
 export default function Global() {
   return (
