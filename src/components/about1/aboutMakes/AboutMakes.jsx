@@ -1,5 +1,5 @@
-import global from "../../assets/global-img.jpg";
-import "./Services.css";
+import global from "../../../../public/global-img.jpg";
+import "./AboutMakes.css";
 
 export default function Services() {
   return (
