@@ -1,0 +1,34 @@
+.started{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
+    height: 598px;
+    padding: 60px 80px;
+}
+.started .started-left{
+    height: 478px;
+    width: 634px;
+    background-color: #2A254B;
+    padding: 70px;
+}
+.started .started-left .started-main-text{
+    font-size: 32px;
+    font-weight: 400;
+    color: #FFFFFF;
+
+}
+.started .started-left .started-second-text{
+    font-size: 18px;
+    font-weight: 400;
+    color: #FFFFFF;
+    margin-top: 20px;
+}
+.started-btn{
+    padding: 12px 25px;
+    border: none;
+    background-color:#F9F9F926;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-top: 180px;
+}
