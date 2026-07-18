@@ -3,16 +3,51 @@
   padding: 0;
   box-sizing: border-box;
 }
-.banner {
+.hero {
   width: 100%;
-  height: 246px;
-  padding: 67px 369px 79px 367px;
+  height: 355px;
+  background-color: var(--avion-bg);
+  padding-top: 60px;
 }
-.banner-title {
-  width: 704px;
-  height: 100px;
+.hero h2 {
+  width: 366px;
+  height: 34px;
+  margin-top: 60px;
+  margin: auto;
   font-weight: 400;
-  font-size: 36px;
+  font-size: 24px;
   line-height: 140%;
-  color: #2a254b;
+  letter-spacing: 0%;
+  color: var(--footer-bg);
+}
+.cards {
+  display: flex;
+  margin-top: 50px;
+  gap: 60px;
+  align-items: center;
+  padding-left: 86px;
+}
+.nextday {
+  width: 270px;
+  height: 124px;
+  gap: 16px;
+}
+.nextday h5 {
+  width: 199px;
+  height: 28px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 140%;
+  color: var(--footer-bg);
+  margin-top: 16px;
+}
+.nextday p {
+  width: 270px;
+  height: 48px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0%;
+  color: var(--footer-bg);
+  margin-top: 8px;
 }
