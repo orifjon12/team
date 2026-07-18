@@ -3,6 +3,8 @@ import checkmark from "../../assets/checkmark.png";
 import purchase from "../../assets/Purchase.png";
 import sprout from "../../assets/Sprout.png";
 import "./Hero.css";
+import global from "../../../../public/global-img.jpg";
+import "./AboutMakes.css";
 
 export default function Hero() {
   return (
