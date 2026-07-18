@@ -1,0 +1,20 @@
+.about2{
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    align-items: center;
+    height: 277px;
+    
+}
+.about2 .about2-main-text{
+    font-size: 36px;
+    width: 704px;
+    color: #2A254B;
+}
+.about2 .about2-main-btn{
+    padding: 12px 25px;
+    border: none;
+    background-color: #F9F9F9;
+    font-size: 16px;
+    
+}
